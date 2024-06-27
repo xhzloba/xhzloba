@@ -1,4 +1,4 @@
-![Animated SVG](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient)
+![Animated SVG](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Frontend%20dev)
 <div>
 
 ### Skills:
