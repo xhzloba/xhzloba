@@ -1,4 +1,4 @@
-![Animated SVG](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Welcome%20to%20my%20page!&fontSize=75&animation=fadeIn&fontAlignY=38)
+![Animated SVG](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient)
 <div>
 
 ### Skills:
